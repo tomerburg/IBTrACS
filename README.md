@@ -9,3 +9,8 @@ A full IBTrACS CSV file through September 2024, with a slightly different column
 
 https://drive.google.com/file/d/1p4ez-wzyiKGLop6V_SHT3r3m0Q4uBm_G/view
 
+IBTrACS netCDF files are also available through Sept 24, courtesy of Carl Schreck:
+
+- **IBTrACS.ALL.v04r01.nc**: full IBTrACS global archive
+- **IBTrACS.last3years.v04r01.nc**: last 3 years of IBTrACS global data
+
